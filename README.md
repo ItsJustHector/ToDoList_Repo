@@ -1,4 +1,5 @@
 # Todo list app with Typer
+Basada en la ToDoList de @jaimeviloriogreen
 Esta es una app de consola de comando / terminal creada con [Typer](https://typer.tiangolo.com/), una librería de Python para crear aplicaciones CLI.
 
 ## Recreación del entorno virtual
